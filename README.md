@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @unix-blue
+# 👋 Hi, I’m @unix-blue
+
 - 🤖 I am on the automation team as a Senior Software Engineer, Security Automation
-- 🌱 I’m currently learning Terraform to orchestrate the infrasturcture
+- 🌱 I’m currently learning Terraform to orchestrate the infrastructure
 - 💞️ If you're working on a Golang or Rust project, I am interested to hear about it!
 - 📫 Feel free to say hi on slack! You can find me as "Blue"
 
