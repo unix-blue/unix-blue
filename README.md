@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @unix-blue
 
 - 🤖 I am on the automation team as a Senior Software Engineer, Security Automation
-- 🌱 I’m currently learning Terraform to orchestrate the infrastructure
+- 🌱 I’m currently learning Swimlane and Cloud Watch/Datadog for the SOAR platform
 - 💞️ If you're working on a Golang or Rust project, I am interested to hear about it!
 - 📫 Feel free to say hi on slack! You can find me as "Blue"
 
